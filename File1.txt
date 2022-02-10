@@ -1,7 +1,7 @@
 This is first statement
 
-change1
+Change-1
 
-change2
+Change-2
 
-change3,change4
+Change-3 || Change-4
